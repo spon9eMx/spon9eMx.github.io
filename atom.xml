@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-22T07:53:42.942Z</updated>
+  <updated>2021-10-23T06:51:17.485Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vim学习笔记</title>
+    <link href="http://example.com/2021/10/23/vim%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/10/23/vim%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-10-23T05:45:41.000Z</published>
+    <updated>2021-10-23T06:51:17.485Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h2><h3 id="键盘上的方向键："><a href="#键盘上的方向键：" class="headerlink" title="键盘上的方向键："></a>键盘上的方向键：</h3><p><em><strong>h</strong></em> —-<strong>左</strong></p><p><em><strong>j</strong></em> —-<strong>下</strong></p><p><em><strong>k</strong></em> —-<strong>上</strong></p><p><em><strong>l</strong></em> —-<strong>右</strong></p><h3 id="跳转："><a href="#跳转：" class="headerlink" title="跳转："></a>跳转：</h3><p><em><strong>快速定位</strong></em> —-<strong>数字gg</strong><br><em><strong>快速跳到第88行</strong></em> —-<strong>88gg</strong><br><em><strong>往下跳指定行</strong></em> —-<strong>数字j</strong><br><em><strong>往上跳指定行</strong></em> —-<strong>数字k</strong><br><em><strong>查找关键字</strong></em> —-<strong>/关键字</strong><br><em><strong>查找下一个关键字</strong></em> —-<strong>n</strong><br><em><strong>返回上一个关键字</strong></em> —-<strong>shift+n</strong><br><em><strong>删除整行(剪切命令)</strong></em> —-<strong>cc</strong><br><em><strong>撤回操作</strong></em> —-<strong>u</strong><br><em><strong>连续删除两行</strong></em> —-<strong>c2c</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;定位&quot;&gt;&lt;a href=&quot;#定位&quot; class=&quot;headerlink&quot; title=&quot;定位&quot;&gt;&lt;/a&gt;定位&lt;/h2&gt;&lt;h3 id=&quot;键盘上的方向键：&quot;&gt;&lt;a href=&quot;#键盘上的方向键：&quot; class=&quot;headerlink&quot; title=&quot;键盘上的方向键：&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
