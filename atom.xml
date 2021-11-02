@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-23T06:51:17.485Z</updated>
+  <updated>2021-11-02T12:17:12.281Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IDA Studyingnotes</title>
+    <link href="http://example.com/2021/10/23/IDA-Studyingnotes/"/>
+    <id>http://example.com/2021/10/23/IDA-Studyingnotes/</id>
+    <published>2021-10-23T07:05:07.000Z</published>
+    <updated>2021-11-02T12:17:12.281Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="记录阅读IDA权威指南过程"><a href="#记录阅读IDA权威指南过程" class="headerlink" title="记录阅读IDA权威指南过程"></a>记录阅读IDA权威指南过程</h1><h2 id="桌面小技巧"><a href="#桌面小技巧" class="headerlink" title="桌面小技巧"></a>桌面小技巧</h2><pre><code>1.使用View▶Open Subviews命令恢复你无意中关闭的数据显示窗口；2.使用Windows▶Reset Desktop 命令可迅速将桌面恢复到原始布局;3.利用Windows▶Save Desktop 命令保存你认为特别有用的当前桌面  布局。使用 Windows▶Load Desktop 命令迅速打开你之前保存的一  个桌面布局;  4.isassembly窗口（无论是图形视图或列表视图）是唯一一个你可以  修改其显示字体的窗口。使用 Options▶Font 命令可以设置字体  </code></pre><h2 id="零碎小技巧"><a href="#零碎小技巧" class="headerlink" title="零碎小技巧"></a>零碎小技巧</h2><pre><code>1.使用空格变换图形视图和列表视图；2.IDA图形视图：    a.IDA使用不同彩色箭头区分函数块之间各种类型的流      在条件跳转位置终止的基本块可能会生成两种流：        yes箭头默认为绿色（执行分支）        no箭头默认为红色 （不执行分支）              只有一个后继块的基本块会利用一个正常边（默认为蓝色）          b.希望还原默认的图形布局，可以右击图形，并在出现的菜      单中选择Layout Graph。          c.折叠快--右击块的标题栏，然后在出现的菜单上选择“Group      Nodes”          d.同时查看两个不同函数的图形，可以通过Views▶Open Subviews▶Disassembly命令打开另一个反汇      编窗口      3.IDA文本视图：        a.</code></pre><p><img src="https://gitee.com/spon9emx/picgobed/raw/master/img/1.jpg" alt="aaa"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;记录阅读IDA权威指南过程&quot;&gt;&lt;a href=&quot;#记录阅读IDA权威指南过程&quot; class=&quot;headerlink&quot; title=&quot;记录阅读IDA权威指南过程&quot;&gt;&lt;/a&gt;记录阅读IDA权威指南过程&lt;/h1&gt;&lt;h2 id=&quot;桌面小技巧&quot;&gt;&lt;a href=&quot;#桌面小技</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>vim学习笔记</title>
